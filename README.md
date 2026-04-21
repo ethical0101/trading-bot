@@ -49,7 +49,7 @@ trading_bot/
 ### 1. Clone / download the project
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/ethical0101/trading-bot.git
 cd trading_bot
 ```
 
