@@ -1,0 +1,8 @@
+# Binance Python SDK (includes UMFutures for USDT-M perpetuals)
+python-binance==1.0.19
+
+# Environment variable management
+python-dotenv==1.0.1
+
+# Cryptographic dependency for Binance request signing
+pycryptodome==3.20.0
